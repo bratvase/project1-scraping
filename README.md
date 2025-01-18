@@ -1,2 +1,2 @@
-# sgcarmart_scraping
+# project1-scraping
 selenium scraping python
